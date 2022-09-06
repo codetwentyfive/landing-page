@@ -1,0 +1,16 @@
+.header,.footer{
+    ;
+} 
+
+.header{
+    background-color: blue;
+    max-width: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+img{
+    max-width: 400px;
+    max-height: auto;
+}
