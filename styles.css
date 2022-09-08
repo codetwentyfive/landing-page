@@ -27,10 +27,13 @@ ul {
     margin: 0;
     padding: 0;
     margin-right: 1rem;
+    
   }
 li {
     display: inline;
     color: #F9FAF8;
+    margin-left: 1rem;
+    
 }
 
 img {
