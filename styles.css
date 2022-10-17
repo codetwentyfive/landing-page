@@ -7,7 +7,10 @@
 html, body {
     margin: 0;
     padding: 0;
+  height: auto;
+  width: auto;
   }  
+
 .header{
     background-color: #1f2937;
     display: flex;
